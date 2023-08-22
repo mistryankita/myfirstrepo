@@ -2,6 +2,6 @@ class Hello
 {
  public static void main(string args[])
  {
-  system.out.println("Hello World frm Hello.java");
+  system.out.println("Hello World Hello.java");
  }	
 }
